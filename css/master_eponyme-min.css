@@ -259,17 +259,18 @@ img.centered,.aligncenter {display: block;margin: 0 auto 10px;}
 
 
 @media (device-height: 568px) and (-webkit-min-device-pixel-ratio: 2) {
-  #press h2 a {font: 500 0.70em/1em 'Titillium Web', sans-serif;color:#fff;text-transform: uppercase;text-decoration: none;letter-spacing:1px;}
+
 }
 
 /* DEV CONTENT
 -------------------------------------------------- */
 @media only screen
-and (min-device-width : 1290px)
-and (max-device-width : 2796px)
-and (-webkit-min-device-pixel-ratio: 2){
-.page {height:40%;
+and (min-device-width : 1440px)
+and (max-device-width :3088px)
+and (-webkit-min-device-pixel-ratio: 1){
 
+
+.page {height:40%;
  }
  }
 @media only screen
@@ -277,6 +278,7 @@ and (min-device-width : 768px)
 and (max-device-width : 1024px)
 and (-webkit-min-device-pixel-ratio: 2){
 .sp-content {margin:3% 6%; }
+  #press h2 a {font: 700 1em/1.05em 'Titillium Web', sans-serif;color:#fff;text-transform: uppercase;text-decoration: none;letter-spacing:1px;}
 .head .text p {display:inline-table;width:93%;line-height:20px;font-size:90%;margin:20px 0;text-align:justify;
  }
 }
