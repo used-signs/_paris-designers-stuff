@@ -259,6 +259,7 @@ img.centered,.aligncenter {display: block;margin: 0 auto 10px;}
 
 
 @media (device-height: 568px) and (-webkit-min-device-pixel-ratio: 2) {
+  #press h2 a {font: 500 0.70em/1em 'Titillium Web', sans-serif;color:#fff;text-transform: uppercase;text-decoration: none;letter-spacing:1px;}
 }
 
 /* DEV CONTENT
@@ -266,10 +267,7 @@ img.centered,.aligncenter {display: block;margin: 0 auto 10px;}
 @media only screen
 and (min-device-width : 1290px)
 and (max-device-width : 2796px)
-{
-
-  #press h2 {font: 700 0.5em/1.05em 'Titillium Web', sans-serif;color:#fff;text-transform: uppercase;text-decoration: none;letter-spacing:1px;}
-
+and (-webkit-min-device-pixel-ratio: 2){
 .page {height:40%;
 
  }
@@ -290,8 +288,6 @@ and (-webkit-min-device-pixel-ratio: 1)
 .sp-content {margin:3% 6.2%; }
 .head .text p {font-size:80%;line-height:18px;
  }
- #press h2 {font: 700 0.5em/1.05em 'Titillium Web', sans-serif;color:#fff;text-transform: uppercase;text-decoration: none;letter-spacing:1px;}
-
 }
 
 .chain div:first-child {width:300px; height:10px; position:absolute; top:40%; left:50%;}
