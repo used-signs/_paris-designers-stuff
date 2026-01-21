@@ -35,7 +35,7 @@ a.vims, a.trees  {background-position: -31px 5px;display: block;}
 figure > img.tempo-w {float:right;margin:1% 2.5% 0 0;padding:5.5em 0 2em 0 ;width: 100%;height:auto;}
 figure > img.tempo-x {float:right;margin:0 2.5% 0 0;padding:0 0 1.2em 0 ;width: 100%;height:auto;}
 #press p, #press h1, #press h2, #press h3 {margin:0;padding:0 0 1.6em 0.5em}
-#press h2 {margin:1.1em 0 1.1em;padding:1em;width:auto;height:inherit;}
+#press h2 {margin:1em 0 1em;padding:0.7em;width:auto;height:inherit;}
 
 /* TODO SLIDE DEV BLOCK BDD À RATIONALISER
 -------------------------------------------------- */
