@@ -905,51 +905,25 @@
       "q" : 90,
       "rq" : 75
     },
-    "\/images\/retina\/teasing-0@2x.jpg" : {
-      "ft" : 16384,
-      "iS" : 4610119,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/images\/retina\/teasing-0@2x.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/images\/retina\/teasing-0@3x.jpg" : {
-      "ft" : 16384,
-      "iS" : 1565982,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/images\/retina\/teasing-0@3x.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/images\/retina\/teasing-2@0x.jpg" : {
-      "ft" : 16384,
-      "iS" : 851672,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/images\/retina\/teasing-2@0x.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/images\/retina\/teasing-2@2x.jpg" : {
       "ft" : 16384,
-      "iS" : 943067,
+      "iS" : 936519,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/images\/retina\/teasing-2@2x.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/images\/retina\/teasing-4@2x.jpg" : {
+      "ft" : 16384,
+      "iS" : 798587,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/retina\/teasing-4@2x.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
@@ -1313,7 +1287,7 @@
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "\/ico\/apple-touch-icon-iphone-retina.png",
     "iconImageWasSetByUser" : 0,
-    "lastBuiltDate" : 790677482.11970401
+    "lastBuiltDate" : 790683776.46114695
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
