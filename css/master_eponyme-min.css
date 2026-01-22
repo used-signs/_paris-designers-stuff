@@ -37,7 +37,7 @@ figure > img.tempo-x {float:right;margin:0 2.5% 0 0;padding:0 0 0.5em 0 ;width: 
 #press p, #press h1, #press h2, #press h3 {margin:0;padding:0 0 0.5em 0.5em}
 #press h2, #press h3 {margin:1em 0 1em;padding:0.7em;width:auto;height:inherit;}
 article > p span {margin:0.5em 0 1.9em;padding:0.5em;width:auto;height:inherit;}
-
+article > p {padding:0.5em 1.3em;line-height:1.2em;background-color:#020109;width:inherit;}
 
 /* TODO SLIDE DEV BLOCK BDD À RATIONALISER
 -------------------------------------------------- */

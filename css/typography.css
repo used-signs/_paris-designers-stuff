@@ -12,7 +12,7 @@ nav a {cursor:pointer;}
 .text h3 a:hover {font: 500 1.05em/1.9em 'Titillium Web', sans-serif;color:#fff;text-decoration: underline;}
 
 article > p {font: 400 1em/2.1em 'Titillium Web', sans-serif;color:#888;}
-article > p span {font: 500 1em/3.5em 'Titillium Web', sans-serif;color:#fff;line-height:1.2em;background-color: #222;width:inherit;}
+article > p span {font: 500 1em/3.5em 'Titillium Web', sans-serif;color:#888;line-height:1.2em;background-color: #222;width:inherit;}
 article > p a {font: 400 0.85em/0em 'Titillium Web', sans-serif;color:#888;}
 article > h2 a {font: 600 0.95em/1.05em 'Titillium Web', sans-serif;text-transform: uppercase;color:#fff;font-weight:400;text-decoration: none;letter-spacing:1px;}
 
