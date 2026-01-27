@@ -9,6 +9,14 @@
   ],
   "creatorBuild" : "34892",
   "files" : {
+    "\/build\/.gitignore" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/.gitignore",
+      "oF" : 0
+    },
     "\/css\/index-min.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -1279,7 +1287,7 @@
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "\/ico\/apple-touch-icon-iphone-retina.png",
     "iconImageWasSetByUser" : 0,
-    "lastBuiltDate" : 790857825.847592
+    "lastBuiltDate" : 791201433.88968897
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
