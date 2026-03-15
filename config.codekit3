@@ -163,7 +163,11 @@
     },
     "\/ico\/129x129.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 15034,
+=======
+      "iS" : 4524,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/ico\/129x129.png",
       "oF" : 0,
@@ -176,7 +180,11 @@
     },
     "\/ico\/512.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 228134,
+=======
+      "iS" : 38660,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/ico\/512.png",
       "oF" : 0,
@@ -189,7 +197,11 @@
     },
     "\/ico\/android-icon-192x192.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 58521,
+=======
+      "iS" : 41914,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/ico\/android-icon-192x192.png",
       "oF" : 0,
@@ -202,7 +214,11 @@
     },
     "\/ico\/app-touch-icon.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 22334,
+=======
+      "iS" : 3923,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/ico\/app-touch-icon.png",
       "oF" : 0,
@@ -215,7 +231,11 @@
     },
     "\/ico\/apple-icon-60x60.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 14295,
+=======
+      "iS" : 6657,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/ico\/apple-icon-60x60.png",
       "oF" : 0,
@@ -228,7 +248,11 @@
     },
     "\/ico\/apple-icon-76x76.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 19117,
+=======
+      "iS" : 9674,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/ico\/apple-icon-76x76.png",
       "oF" : 0,
@@ -241,7 +265,11 @@
     },
     "\/ico\/apple-icon-120x120.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 32808,
+=======
+      "iS" : 20416,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/ico\/apple-icon-120x120.png",
       "oF" : 0,
@@ -254,7 +282,11 @@
     },
     "\/ico\/apple-icon-152x152.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 44499,
+=======
+      "iS" : 29415,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/ico\/apple-icon-152x152.png",
       "oF" : 0,
@@ -267,7 +299,11 @@
     },
     "\/ico\/apple-icon-180x180.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 54812,
+=======
+      "iS" : 38345,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/ico\/apple-icon-180x180.png",
       "oF" : 0,
@@ -280,7 +316,11 @@
     },
     "\/ico\/apple-touch-icon-ipad-retina.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 32750,
+=======
+      "iS" : 5859,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/ico\/apple-touch-icon-ipad-retina.png",
       "oF" : 0,
@@ -293,7 +333,11 @@
     },
     "\/ico\/apple-touch-icon-ipad.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 10112,
+=======
+      "iS" : 1388,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/ico\/apple-touch-icon-ipad.png",
       "oF" : 0,
@@ -306,7 +350,11 @@
     },
     "\/ico\/apple-touch-icon-iphone-retina.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 22571,
+=======
+      "iS" : 3923,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/ico\/apple-touch-icon-iphone-retina.png",
       "oF" : 0,
@@ -319,7 +367,11 @@
     },
     "\/ico\/apple-touch-icon-iphone.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 7551,
+=======
+      "iS" : 969,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/ico\/apple-touch-icon-iphone.png",
       "oF" : 0,
@@ -332,7 +384,11 @@
     },
     "\/ico\/favicon-32x32.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 7255,
+=======
+      "iS" : 2030,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/ico\/favicon-32x32.png",
       "oF" : 0,
@@ -345,7 +401,11 @@
     },
     "\/ico\/favicon-96x96.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 26891,
+=======
+      "iS" : 15600,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/ico\/favicon-96x96.png",
       "oF" : 0,
@@ -366,7 +426,11 @@
     },
     "\/images\/28-80-1.jpg" : {
       "ft" : 16384,
+<<<<<<< Updated upstream
       "iS" : 1860981,
+=======
+      "iS" : 1821793,
+>>>>>>> Stashed changes
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/images\/28-80-1.jpg",
@@ -379,7 +443,11 @@
     },
     "\/images\/28-80-2.jpg" : {
       "ft" : 16384,
+<<<<<<< Updated upstream
       "iS" : 1715999,
+=======
+      "iS" : 1689924,
+>>>>>>> Stashed changes
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/images\/28-80-2.jpg",
@@ -392,7 +460,11 @@
     },
     "\/images\/28-80-4.jpg" : {
       "ft" : 16384,
+<<<<<<< Updated upstream
       "iS" : 3711992,
+=======
+      "iS" : 3621060,
+>>>>>>> Stashed changes
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/images\/28-80-4.jpg",
@@ -405,7 +477,11 @@
     },
     "\/images\/28-80-5.jpg" : {
       "ft" : 16384,
+<<<<<<< Updated upstream
       "iS" : 5661064,
+=======
+      "iS" : 5565552,
+>>>>>>> Stashed changes
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/images\/28-80-5.jpg",
@@ -418,7 +494,11 @@
     },
     "\/images\/28-80-6.0.jpg" : {
       "ft" : 16384,
+<<<<<<< Updated upstream
       "iS" : 3676308,
+=======
+      "iS" : 3591709,
+>>>>>>> Stashed changes
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/images\/28-80-6.0.jpg",
@@ -431,7 +511,11 @@
     },
     "\/images\/arrows.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 3470,
+=======
+      "iS" : 890,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/images\/arrows.png",
       "oF" : 0,
@@ -444,7 +528,11 @@
     },
     "\/images\/bg-bottom-chain.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 5754,
+=======
+      "iS" : 1496,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/images\/bg-bottom-chain.png",
       "oF" : 0,
@@ -457,7 +545,11 @@
     },
     "\/images\/bg-sign-a.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 2183,
+=======
+      "iS" : 172,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/images\/bg-sign-a.png",
       "oF" : 0,
@@ -470,7 +562,11 @@
     },
     "\/images\/bg-sign-b.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 1120,
+=======
+      "iS" : 167,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/images\/bg-sign-b.png",
       "oF" : 0,
@@ -483,7 +579,11 @@
     },
     "\/images\/bg-sign.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 2451,
+=======
+      "iS" : 207,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/images\/bg-sign.png",
       "oF" : 0,
@@ -496,7 +596,11 @@
     },
     "\/images\/closeopenleftright.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 2117,
+=======
+      "iS" : 557,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/images\/closeopenleftright.png",
       "oF" : 0,
@@ -509,7 +613,11 @@
     },
     "\/images\/DLG.jpg" : {
       "ft" : 16384,
+<<<<<<< Updated upstream
       "iS" : 2012783,
+=======
+      "iS" : 2002546,
+>>>>>>> Stashed changes
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/images\/DLG.jpg",
@@ -530,7 +638,11 @@
     },
     "\/images\/IMG_1911.jpg" : {
       "ft" : 16384,
+<<<<<<< Updated upstream
       "iS" : 452460,
+=======
+      "iS" : 434045,
+>>>>>>> Stashed changes
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/images\/IMG_1911.jpg",
@@ -543,7 +655,11 @@
     },
     "\/images\/IMG_1913.jpg" : {
       "ft" : 16384,
+<<<<<<< Updated upstream
       "iS" : 232095,
+=======
+      "iS" : 214386,
+>>>>>>> Stashed changes
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/images\/IMG_1913.jpg",
@@ -556,7 +672,11 @@
     },
     "\/images\/MJ-HLG-NR.jpg" : {
       "ft" : 16384,
+<<<<<<< Updated upstream
       "iS" : 417714,
+=======
+      "iS" : 410382,
+>>>>>>> Stashed changes
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/images\/MJ-HLG-NR.jpg",
@@ -569,7 +689,11 @@
     },
     "\/images\/MJ-HLG-RD.jpg" : {
       "ft" : 16384,
+<<<<<<< Updated upstream
       "iS" : 514767,
+=======
+      "iS" : 500641,
+>>>>>>> Stashed changes
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/images\/MJ-HLG-RD.jpg",
@@ -582,7 +706,11 @@
     },
     "\/images\/pantone\/IMG_3638.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 27032,
+=======
+      "iS" : 25762,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/images\/pantone\/IMG_3638.png",
       "oF" : 0,
@@ -608,7 +736,11 @@
     },
     "\/images\/pantone\/IMG_3640.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 15845,
+=======
+      "iS" : 14800,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/images\/pantone\/IMG_3640.png",
       "oF" : 0,
@@ -686,7 +818,11 @@
     },
     "\/images\/pantone\/IMG_3648.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 14458,
+=======
+      "iS" : 12493,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/images\/pantone\/IMG_3648.png",
       "oF" : 0,
@@ -764,7 +900,11 @@
     },
     "\/images\/pantone\/IMG_3655.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 32489,
+=======
+      "iS" : 31857,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/images\/pantone\/IMG_3655.png",
       "oF" : 0,
@@ -777,7 +917,11 @@
     },
     "\/images\/retina\/arrows@2x.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 3430,
+=======
+      "iS" : 900,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/images\/retina\/arrows@2x.png",
       "oF" : 0,
@@ -790,7 +934,11 @@
     },
     "\/images\/retina\/bg-bottom-chain@2x.jpg" : {
       "ft" : 16384,
+<<<<<<< Updated upstream
       "iS" : 12848,
+=======
+      "iS" : 11917,
+>>>>>>> Stashed changes
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/images\/retina\/bg-bottom-chain@2x.jpg",
@@ -803,7 +951,11 @@
     },
     "\/images\/retina\/bg-bottom-chain@2x.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 16126,
+=======
+      "iS" : 4171,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/images\/retina\/bg-bottom-chain@2x.png",
       "oF" : 0,
@@ -816,7 +968,11 @@
     },
     "\/images\/retina\/bg-sign@2x.jpg" : {
       "ft" : 16384,
+<<<<<<< Updated upstream
       "iS" : 17548,
+=======
+      "iS" : 16621,
+>>>>>>> Stashed changes
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/images\/retina\/bg-sign@2x.jpg",
@@ -829,7 +985,11 @@
     },
     "\/images\/retina\/bg-sign@2x.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 24259,
+=======
+      "iS" : 6587,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/images\/retina\/bg-sign@2x.png",
       "oF" : 0,
@@ -842,7 +1002,11 @@
     },
     "\/images\/retina\/bg-under-video@2x.jpg" : {
       "ft" : 16384,
+<<<<<<< Updated upstream
       "iS" : 4658,
+=======
+      "iS" : 3771,
+>>>>>>> Stashed changes
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/images\/retina\/bg-under-video@2x.jpg",
@@ -855,7 +1019,11 @@
     },
     "\/images\/retina\/bg-under-video@2x.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 2129,
+=======
+      "iS" : 143,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/images\/retina\/bg-under-video@2x.png",
       "oF" : 0,
@@ -868,7 +1036,11 @@
     },
     "\/images\/retina\/bg-under-videobg@2x.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 1070,
+=======
+      "iS" : 124,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/images\/retina\/bg-under-videobg@2x.png",
       "oF" : 0,
@@ -881,7 +1053,11 @@
     },
     "\/images\/retina\/DCP@2x.jpg" : {
       "ft" : 16384,
+<<<<<<< Updated upstream
       "iS" : 2976771,
+=======
+      "iS" : 2907528,
+>>>>>>> Stashed changes
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/images\/retina\/DCP@2x.jpg",
@@ -894,7 +1070,11 @@
     },
     "\/images\/retina\/signature@2x.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 13964,
+=======
+      "iS" : 6279,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/images\/retina\/signature@2x.png",
       "oF" : 0,
@@ -933,7 +1113,11 @@
     },
     "\/images\/signature.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 6888,
+=======
+      "iS" : 3245,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/images\/signature.png",
       "oF" : 0,
@@ -956,7 +1140,11 @@
     },
     "\/images\/tcdj.jpg" : {
       "ft" : 16384,
+<<<<<<< Updated upstream
       "iS" : 2402111,
+=======
+      "iS" : 2333913,
+>>>>>>> Stashed changes
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/images\/tcdj.jpg",
@@ -982,7 +1170,11 @@
     },
     "\/images\/video-js.png" : {
       "ft" : 32768,
+<<<<<<< Updated upstream
       "iS" : 6648,
+=======
+      "iS" : 2143,
+>>>>>>> Stashed changes
       "oA" : 0,
       "oAP" : "\/images\/video-js.png",
       "oF" : 0,
@@ -1287,7 +1479,11 @@
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "\/ico\/apple-touch-icon-iphone-retina.png",
     "iconImageWasSetByUser" : 0,
+<<<<<<< Updated upstream
     "lastBuiltDate" : 791201433.88968897
+=======
+    "lastBuiltDate" : 795296936.90548503
+>>>>>>> Stashed changes
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
